@@ -9,3 +9,8 @@
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
 0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 artstation.com
+0.0.0.0 pngitem.com
+0.0.0.0 narvii.com
+0.0.0.0 cleanpng.com
+0.0.0.0 uihere.com
