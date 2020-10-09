@@ -14,3 +14,10 @@
 0.0.0.0 narvii.com
 0.0.0.0 cleanpng.com
 0.0.0.0 uihere.com
+0.0.0.0 zerochan.net
+0.0.0.0 pngfind.com
+0.0.0.0 pngkit.com
+0.0.0.0 nicepng.com
+0.0.0.0 fanpop.com
+0.0.0.0 seekpng.com
+0.0.0.0 hiclipart.com
