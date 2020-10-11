@@ -21,3 +21,4 @@
 0.0.0.0 fanpop.com
 0.0.0.0 seekpng.com
 0.0.0.0 hiclipart.com
+0.0.0.0 poptropica.com
