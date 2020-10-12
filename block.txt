@@ -22,3 +22,4 @@
 0.0.0.0 seekpng.com
 0.0.0.0 hiclipart.com
 0.0.0.0 poptropica.com
+0.0.0.0 prodigygame.com
