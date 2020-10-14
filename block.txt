@@ -23,3 +23,6 @@
 0.0.0.0 hiclipart.com
 0.0.0.0 poptropica.com
 0.0.0.0 prodigygame.com
+0.0.0.0 coolmath-games.com
+0.0.0.0 coolmathgames.com
+
