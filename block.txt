@@ -34,3 +34,7 @@
 0.0.0.0 dressupwho.net
 0.0.0.0 girlgames.com
 0.0.0.0 dariagames.com
+0.0.0.0 stardoll.com
+0.0.0.0 dinosauradventure.com
+0.0.0.0 girlsgogames.com
+0.0.0.0 gamesglue.com
