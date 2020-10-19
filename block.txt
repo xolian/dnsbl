@@ -38,3 +38,4 @@
 0.0.0.0 dinosauradventure.com
 0.0.0.0 girlsgogames.com
 0.0.0.0 gamesglue.com
+0.0.0.0 agame.com
