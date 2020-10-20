@@ -39,3 +39,12 @@
 0.0.0.0 girlsgogames.com
 0.0.0.0 gamesglue.com
 0.0.0.0 agame.com
+0.0.0.0 pinterest.com
+0.0.0.0 pinimg.com
+0.0.0.0 tumblr.com
+0.0.0.0 numuki.com
+0.0.0.0 gfycat.com
+0.0.0.0 denofgeek.com
+0.0.0.0 basementrejects.com
+0.0.0.0 blacknerdproblems.com
+0.0.0.0 reddit.com
