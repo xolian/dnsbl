@@ -48,3 +48,6 @@
 0.0.0.0 basementrejects.com
 0.0.0.0 blacknerdproblems.com
 0.0.0.0 reddit.com
+0.0.0.0 cartoonnetworkhq.com
+0.0.0.0 hotjar.com
+0.0.0.0 wishpond.com
