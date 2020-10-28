@@ -51,3 +51,4 @@
 0.0.0.0 cartoonnetworkhq.com
 0.0.0.0 hotjar.com
 0.0.0.0 wishpond.com
+0.0.0.0 arkadium.com
