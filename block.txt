@@ -52,3 +52,5 @@
 0.0.0.0 hotjar.com
 0.0.0.0 wishpond.com
 0.0.0.0 arkadium.com
+0.0.0.0 powerpuffyourself.com
+0.0.0.0 disney.com
