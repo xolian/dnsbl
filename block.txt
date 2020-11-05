@@ -54,3 +54,4 @@
 0.0.0.0 arkadium.com
 0.0.0.0 powerpuffyourself.com
 0.0.0.0 disney.com
+0.0.0.0 dolldivine.com
