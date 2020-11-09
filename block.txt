@@ -55,3 +55,7 @@
 0.0.0.0 powerpuffyourself.com
 0.0.0.0 disney.com
 0.0.0.0 dolldivine.com
+0.0.0.0 tessafashiongame.com
+0.0.0.0 kawaiigames.net
+0.0.0.0 pastelkattogames.com
+0.0.0.0 enjoydressup.com
