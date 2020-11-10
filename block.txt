@@ -59,3 +59,9 @@
 0.0.0.0 kawaiigames.net
 0.0.0.0 pastelkattogames.com
 0.0.0.0 enjoydressup.com
+0.0.0.0 crazygames.com
+0.0.0.0 watchmojo.com
+0.0.0.0 honeysanime.com
+0.0.0.0 tiktok.com
+0.0.0.0 zimbio.com
+0.0.0.0 disneystore.com
