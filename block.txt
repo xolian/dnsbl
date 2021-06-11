@@ -2,6 +2,7 @@
 # Hosts contributed by Brandon Spruth
 # http://brandon.spruth.co
 
+0.0.0.0 crunchyroll.com
 0.0.0.0 missangestgames.com
 0.0.0.0 meiker.io
 0.0.0.0 deviantart.com
