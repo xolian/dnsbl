@@ -1,15 +1,15 @@
 #=====================================
 # Hosts contributed by Brandon Spruth
 # http://brandon.spruth.co
+# 0.0.0.0 youtube.com
+# 0.0.0.0 www.youtube.com
+# 0.0.0.0 youtube-ui.l.google.com
 
 0.0.0.0 crunchyroll.com
 0.0.0.0 missangestgames.com
 0.0.0.0 meiker.io
 0.0.0.0 deviantart.com
 0.0.0.0 rinmarugames.com
-0.0.0.0 youtube.com
-0.0.0.0 www.youtube.com
-0.0.0.0 youtube-ui.l.google.com
 0.0.0.0 artstation.com
 0.0.0.0 pngitem.com
 0.0.0.0 narvii.com
