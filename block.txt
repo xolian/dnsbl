@@ -68,3 +68,11 @@
 0.0.0.0 disneystore.com
 0.0.0.0 poptropica.com
 0.0.0.0 facebook.com
+0.0.0.0 asafuturescape.org
+0.0.0.0 zoro.to
+0.0.0.0 paper-io.com
+0.0.0.0 hoyolab.com
+0.0.0.0 twitch.tv
+0.0.0.0 latestceleb.com
+0.0.0.0 gaiaonline.com
+0.0.0.0 poki.com
