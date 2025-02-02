@@ -4,11 +4,9 @@
 # 0.0.0.0 youtube.com
 # 0.0.0.0 www.youtube.com
 # 0.0.0.0 youtube-ui.l.google.com
-
 0.0.0.0 crunchyroll.com
 0.0.0.0 missangestgames.com
 0.0.0.0 meiker.io
-0.0.0.0 deviantart.com
 0.0.0.0 rinmarugames.com
 0.0.0.0 artstation.com
 0.0.0.0 pngitem.com
@@ -30,7 +28,6 @@
 0.0.0.0 girlieroom.com
 0.0.0.0 loligames.com
 0.0.0.0 gamedistribution.com
-0.0.0.0 azaleasdolls.com
 0.0.0.0 dressupmix.com
 0.0.0.0 dressupwho.net
 0.0.0.0 girlgames.com
@@ -40,7 +37,6 @@
 0.0.0.0 girlsgogames.com
 0.0.0.0 gamesglue.com
 0.0.0.0 agame.com
-0.0.0.0 pinterest.com
 0.0.0.0 pinimg.com
 0.0.0.0 tumblr.com
 0.0.0.0 numuki.com
@@ -48,13 +44,11 @@
 0.0.0.0 denofgeek.com
 0.0.0.0 basementrejects.com
 0.0.0.0 blacknerdproblems.com
-0.0.0.0 reddit.com
 0.0.0.0 cartoonnetworkhq.com
 0.0.0.0 hotjar.com
 0.0.0.0 wishpond.com
 0.0.0.0 arkadium.com
 0.0.0.0 powerpuffyourself.com
-0.0.0.0 disney.com
 0.0.0.0 dolldivine.com
 0.0.0.0 tessafashiongame.com
 0.0.0.0 kawaiigames.net
@@ -68,10 +62,7 @@
 0.0.0.0 disneystore.com
 0.0.0.0 poptropica.com
 0.0.0.0 asafuturescape.org
-0.0.0.0 zoro.to
 0.0.0.0 paper-io.com
-0.0.0.0 hoyolab.com
-0.0.0.0 twitch.tv
 0.0.0.0 latestceleb.com
 0.0.0.0 gaiaonline.com
 0.0.0.0 poki.com
